@@ -30,9 +30,8 @@ Sie erstellen mit LATEX(https://www.latex-project.org/) eine Zusammenfassung von
 - Es ist nicht nötig, das Programm hinsichtlich Effizienz zu optimieren
 - Das Programm sollte verständlich kommentiert sein
 
-Abgabe: 08.12.2024
-
 
 ### Abgabe
 
 Senden Sie mir bitte per Mail das Java-Projekt, den LATEX-Quellcode und das fertige PDF-Dokument zu.
+Abgabe: 08.12.2024
