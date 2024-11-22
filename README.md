@@ -8,6 +8,7 @@ Im Semester finden zwei Prüfungen à 60 Minuten statt. Die Prüfungstermine sin
 
 ### Projektarbeiten
 - Bayes-Spam-Filter
+- Bloom-Filter
 
 ### Autoren:
 - Patrick Stettler
