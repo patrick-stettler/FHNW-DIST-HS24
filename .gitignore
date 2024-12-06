@@ -1,20 +1,11 @@
-# IntelliJ IDEA
-.idea/
-
-# Eclipse
-.project
-.classpath
-.settings/
-
-# VS Code
+# Visual Studio Code
 .vscode/
 
 # Maven
 target/
 
-# Gradle
-.gradle/
-build/
+# Bibliotheken (lib-Verzeichnis)
+lib/
 
 # Log-Dateien
 *.log
