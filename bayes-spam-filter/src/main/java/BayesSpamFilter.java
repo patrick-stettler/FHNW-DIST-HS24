@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.zip.*;
 
 
-public class SpamFilter {
+public class BayesSpamFilter {
 
     private static final String filePath = "bayes-spam-filter/src/main/resources/";
 
@@ -18,7 +18,7 @@ public class SpamFilter {
     private double spamDetectionRate;
 
 
-    public SpamFilter(){
+    public BayesSpamFilter(){
         this.hamWordCount = new HashMap<>();
         this.spamWordCount = new HashMap<>();
         this.hamMailCount = 0;

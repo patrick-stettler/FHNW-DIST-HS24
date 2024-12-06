@@ -1,7 +1,7 @@
-public class App {
+public class SpamApp {
     public static void main(String[] args) {
         
-        SpamFilter filter = new SpamFilter();
+        BayesSpamFilter filter = new BayesSpamFilter();
 
         filter.train("ham-anlern.zip", "spam-anlern.zip");
         filter.calibrate("ham-kallibrierung.zip", "spam-kallibrierung.zip");

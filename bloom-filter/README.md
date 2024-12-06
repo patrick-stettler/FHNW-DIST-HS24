@@ -1,4 +1,4 @@
-# Programmieraufgabe: Bayes-Spam-Filter
+# Programmieraufgabe: Bloom-Filter
 
 Ziel der Aufgabe ist es, einen Bloom-Filter zu programmieren und die Funktionsweise darzustellen.
 

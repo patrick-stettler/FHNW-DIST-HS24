@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Log-Dateien
+*.log
+
+# Betriebssystem-spezifische Dateien
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# Temporäre Dateien
+*.swp
+*.swo
